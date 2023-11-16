@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+.App {
+  font-family: sans-serif;
+  margin-top: 8vh;
+  margin-left: 40vh;
+  color: white;
+}
+.inputContainer {
+  margin-top: 5vh;
+  margin-bottom: 3vh;
+  margin-left: 2vh;
+}
+.data {
+  font-size: 18px;
+  font-style: oblique;
+}
